@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "9836645314",
+    "firebase_url": "https://git-fit-3cf15-default-rtdb.firebaseio.com",
+    "project_id": "git-fit-3cf15",
+    "storage_bucket": "git-fit-3cf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9836645314:android:2acce6e05fcea44323e45b",
+        "android_client_info": {
+          "package_name": "com.example.git_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNRRMgw2PxunKYUAbeTWu0A-tDLRydFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
